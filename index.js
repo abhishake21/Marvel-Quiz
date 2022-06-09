@@ -31,6 +31,14 @@ let questionsList = [
     correctOption: 'a'
   },
   {
+    question: "What type of doctor is Stephen Strange ? \n\t "+chalk.cyan('a:')+" Cardiothoracic-Surgeon \n\t "+chalk.cyan('b:')+" Trauma-Surgeon \n\t "+chalk.cyan('c:')+" Neuro-Surgeon \n\t "+chalk.cyan('d:')+" Plastic-Surgeon \n",
+    correctOption: 'c'
+  },
+  {
+    question: "What necklace does Peter buy for M.J in Spiderman: Far From Home ? \n\t "+chalk.cyan('a:')+" Black Sunflower \n\t "+chalk.cyan('b:')+" Black Dahlia \n\t "+chalk.cyan('c:')+" Saint Christpher \n\t "+chalk.cyan('d:')+" Diamond \n",
+    correctOption: 'b'
+  },
+  {
     question: "And finally, what is the name of Thor’s hammer ? \n\t "+chalk.cyan('a:')+" Vanir \n\t "+chalk.cyan('b:')+" Normi \n\t "+chalk.cyan('c:')+" Aesir \n\t "+chalk.cyan('d:')+" Mjolnir \n",
     correctOption: 'd'
   }
